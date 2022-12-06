@@ -1,0 +1,15 @@
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\bin\Debug\net6.0\EX66.exe
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\bin\Debug\net6.0\EX66.deps.json
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\bin\Debug\net6.0\EX66.runtimeconfig.json
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\bin\Debug\net6.0\EX66.dll
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\bin\Debug\net6.0\EX66.pdb
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.csproj.AssemblyReference.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.AssemblyInfoInputs.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.AssemblyInfo.cs
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.csproj.CoreCompileInputs.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.dll
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\refint\EX66.dll
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.pdb
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\EX66.genruntimeconfig.cache
+D:\GB\I четверть\Языки программирования\Lek1\DZ_seminar91\EX66\obj\Debug\net6.0\ref\EX66.dll
